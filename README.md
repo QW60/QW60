@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Quentin or August. Choose a name.
+- 👋 Hi, I’m Quentin or August.
 - 👀 I’m interested in coding fun things
 - 🌱 I’m currently learning NodeJS and C#
-- 📫 How to reach me: contact@quentinmw.com
+- 🇳🇱 I'm from the Netherlands
+- 📫 Reach me at contact@quentinmw.com
 - 🍉 I want watermelon.
 
 <!---
