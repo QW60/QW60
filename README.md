@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Quentin or August.
+- 👋 Hi, I’m Quentin.
 - 👀 I’m interested in coding fun things
-- 🌱 I’m currently learning NodeJS and C#
+- 🌱 I’m currently learning C#
 - 🇳🇱 I'm from the Netherlands
-- 📫 Reach me at contact@quentinmw.com
+- 📫 Reach me at post@quentinmw.com
 - 🍉 I want watermelon.
 
 <!---
