@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quentin.
 - 👀 I’m interested in coding fun things
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Javascript
 - 🇳🇱 I'm from the Netherlands
 - 📫 Reach me at post@quentinmw.com
 - 🍉 I want watermelon.
