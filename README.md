@@ -1,4 +1,4 @@
-![Logo](https://quinm.nl/media/logo.svg)
+![Logo](https://quinm.nl/media/whiteLogo.png)
 
 - 👋 Hi, I’m Quentin.
 - 📚 Studying Code at GLR
