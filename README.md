@@ -1,3 +1,5 @@
+![QW Logo](https://quinm.nl/media/logo](https://quinm.nl/media/logo.svg)
+
 - 👋 Hi, I’m Quentin.
 - 📚 Studying Code at GLR
 - 💻 Experiance in HTML, CSS, JS, C#, PHP
