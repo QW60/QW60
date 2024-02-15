@@ -1,17 +1,21 @@
-<div align="center">
+<div align="left">
   <img height="" src="https://i.ibb.co/ky8VZMy/image.png"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=@Quinmw_&logo=twitter&label=Twitter&color=303030&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/qmwillemstein/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/quinmw_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@Quinmw_&logo=twitter&label=Twitter&color=303030&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">👋 Hi I'm Quin</h1>
+<h1 align="left">👋 Hi I'm Quin</h1>
 
 ###
 
